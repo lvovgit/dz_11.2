@@ -1,2 +1,6 @@
 def upper():
-    pass
+    s = input("Ваша строка")
+    print(f'{s.upper()}')
+    return s
+
+upper()

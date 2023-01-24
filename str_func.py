@@ -1,7 +1,7 @@
 def upper():
     """
     make letters upper
-    just changes
+    change
     :return:
     """
     s = input("Ваша строка")
@@ -11,7 +11,7 @@ def upper():
 def first_letter_up():
     """
     make first letter upper
-    just changes
+    change
     :return:
     """
     i = input("Ваша строка")
